@@ -1,4 +1,5 @@
 # ProyectoGeneradordeTexto
+#Presentado por: Erika Johanna Martínez y Andrea Catalina García
 #Generador de Letras de Canciones
 #El objetivo de este proyecto es generar letras de canciones sintéticas, a partir de la inclusión de una o varias palabras sobre la temática #con la que desea que contenga la letras de la canción.
 
